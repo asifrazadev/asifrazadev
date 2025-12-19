@@ -1,18 +1,12 @@
-<h1 align="center">Hi, I'm Asif Raza 👋</h1>
-<h3 align="center">
-Full Stack MERN Developer | Software Engineering Student at NUML
-</h3>
+# Hi, I'm Asif Raza 👋
 
-<p align="center">
+### Full Stack MERN Developer | Software Engineering Student at NUML
+
 Building scalable, user-focused web applications with clean architecture and modern technologies, aiming to solve real-world problems.
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodesBy-Asif&label=Profile%20views&color=0e75b6&style=flat" alt="CodesBy-Asif" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=CodesBy-Asif&label=Profile%20views&color=0e75b6&style=flat)
 
-
-### About Me
+## About Me
 
 - Full Stack **MERN Developer** with hands-on experience building production-grade web applications  
 - Strong focus on **clean code, performance, and scalable backend architecture**  
@@ -20,89 +14,55 @@ Building scalable, user-focused web applications with clean architecture and mod
 - Currently pursuing **BS Software Engineering** at NUML (CGPA: 3.5/4.0)  
 - Passionate about **open-source contributions** and continuous learning  
 
-### Portfolio & Contact
+## Portfolio & Contact
 
 - 🌐 Portfolio: [codesbyasif.vercel.app](https://codesbyasif.vercel.app/)  
 - 💻 GitHub: [CodesBy-Asif](https://github.com/CodesBy-Asif)  
 - 📧 Email: codesbyasif@gmail.com  
 
+## Connect with me
 
-<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/codesbyasif/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://discord.gg/1086964478668701746" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Discord"
-      height="30"
-      width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
   </a>
   <a href="https://leetcode.com/your-username" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="LeetCode"
-      height="30"
-      width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
   </a>
 </p>
 
+## Tech Stack
 
-<h3 align="left">Tech Stack</h3>
+**Languages:** JavaScript, TypeScript, C++, Java, PHP  
+**Frontend:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Databases & Tools:** MongoDB, MySQL, Redis, Git, GitHub, Postman, Cloudinary, Vercel
 
-<p align="left">
-  <strong>Languages:</strong> JavaScript, TypeScript, C++, Java, PHP  
-  <strong>Frontend:</strong> React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI  
-  <strong>Backend:</strong> Node.js, Express.js, REST APIs, JWT Authentication  
-  <strong>Databases & Tools:</strong> MongoDB, MySQL, Redis, Git, GitHub, Postman, Cloudinary, Vercel
+## Highlighted Projects
+
+- **[Edura – Learning Management System](https://github.com/CodesBy-Asif/Edura)**  
+  Next.js, TypeScript, Node.js, MongoDB, Redis  
+  Features: Course enrollment, progress tracking, admin analytics, optimized queries with caching
+
+- **[RentIQ – Property Management Platform](https://github.com/CodesBy-Asif/RentIQ)**  
+  React, Node.js, Express, MongoDB  
+  Features: AI-powered property recommendations, booking workflows, payment & email integration
+
+- **[Vendly – Multi-Vendor E-Commerce Platform](https://github.com/CodesBy-Asif/Vendly)**  
+  React, Redux, Node.js  
+  Features: Seller dashboards, role-based access control, optimized checkout flow
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodesBy-Asif&layout=compact&hide=html,css" alt="Top Languages" height="180" width="49%" style="margin-right:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesBy-Asif&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" width="49%"/>
 </p>
 
+## Fun Fact
 
-<h3 align="left">Highlighted Projects</h3>
-
-<ul>
-  <li>
-    <strong><a href="https://github.com/CodesBy-Asif/Edura">Edura – Learning Management System</a></strong><br/>
-    Next.js, TypeScript, Node.js, MongoDB, Redis<br/>
-    Features: Course enrollment, progress tracking, admin analytics, optimized queries with caching
-  </li>
-  <br/>
-  <li>
-    <strong><a href="https://github.com/CodesBy-Asif/RentIQ">RentIQ – Property Management Platform</a></strong><br/>
-    React, Node.js, Express, MongoDB<br/>
-    Features: AI-powered property recommendations, booking workflows, payment & email integration
-  </li>
-  <br/>
-  <li>
-    <strong><a href="https://github.com/CodesBy-Asif/Vendly">Vendly – Multi-Vendor E-Commerce Platform</a></strong><br/>
-    React, Redux, Node.js<br/>
-    Features: Seller dashboards, role-based access control, optimized checkout flow
-  </li>
-</ul>
-
-
-<h3 align="left">GitHub Stats</h3>
-
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CodesBy-Asif&layout=compact&hide=html,css"
-    alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=CodesBy-Asif&show_icons=true&hide_border=true"
-    alt="GitHub Stats" />
-</p>
-<img src="https://streak-stats.demolab.com?user=codesby-asif" alt="GitHub Streak" />
-
-
-<h3 align="left">Fun Fact</h3>
-<p>
 I love exploring AI-powered web applications, learning new programming languages, and mentoring upcoming developers.
-</p>
