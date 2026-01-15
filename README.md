@@ -16,9 +16,9 @@ Building scalable, user-focused web applications with clean architecture and mod
 
 ## Portfolio & Contact
 
-- 🌐 Portfolio: [codesbyasif.vercel.app](https://codesbyasif.vercel.app/)  
+- 🌐 Portfolio: [asif-raza-dev.vercel.app](sif-raza-dev.vercel.app)  
 - 💻 GitHub: [asifrazadev](https://github.com/asifrazadev)  
-- 📧 Email: codesbyasif@gmail.com  
+- 📧 Email: asifr.dev@gmail.com  
 
 ## Connect with me
 
