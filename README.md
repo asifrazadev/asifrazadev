@@ -4,7 +4,7 @@
 
 Building scalable, user-focused web applications with clean architecture and modern technologies, aiming to solve real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodesBy-Asif&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=asifrazadev&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
@@ -17,7 +17,7 @@ Building scalable, user-focused web applications with clean architecture and mod
 ## Portfolio & Contact
 
 - 🌐 Portfolio: [codesbyasif.vercel.app](https://codesbyasif.vercel.app/)  
-- 💻 GitHub: [CodesBy-Asif](https://github.com/CodesBy-Asif)  
+- 💻 GitHub: [asifrazadev](https://github.com/asifrazadev)  
 - 📧 Email: codesbyasif@gmail.com  
 
 ## Connect with me
@@ -43,15 +43,15 @@ Building scalable, user-focused web applications with clean architecture and mod
 
 ## Highlighted Projects
 
-- **[Edura – Learning Management System](https://github.com/CodesBy-Asif/Edura)**  
+- **[Edura – Learning Management System](https://github.com/asifrazadev/Edura)**  
   Next.js, TypeScript, Node.js, MongoDB, Redis  
   Features: Course enrollment, progress tracking, admin analytics, optimized queries with caching
 
-- **[RentIQ – Property Management Platform](https://github.com/CodesBy-Asif/RentIQ)**  
+- **[RentIQ – Property Management Platform](https://github.com/asifrazadev/RentIQ)**  
   React, Node.js, Express, MongoDB  
   Features: AI-powered property recommendations, booking workflows, payment & email integration
 
-- **[Vendly – Multi-Vendor E-Commerce Platform](https://github.com/CodesBy-Asif/Vendly)**  
+- **[Vendly – Multi-Vendor E-Commerce Platform](https://github.com/asifrazadev/Vendly)**  
   React, Redux, Node.js  
   Features: Seller dashboards, role-based access control, optimized checkout flow
 
@@ -59,8 +59,8 @@ Building scalable, user-focused web applications with clean architecture and mod
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodesBy-Asif&layout=compact&hide=html,css" alt="Top Languages" height="180" width="49%" style="margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CodesBy-Asif&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifrazadev&layout=compact&hide=html,css" alt="Top Languages" height="180" width="49%" style="margin-right:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asifrazadev&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" width="49%"/>
 </p>
 
 ## Fun Fact
