@@ -60,21 +60,21 @@ Building scalable, user-focused web applications with clean architecture and mod
 ## 💼 Highlighted Projects
 
 ### [Edura – Learning Management System](https://github.com/asifrazadev/Edura)
-**🔗 [Live Demo](https://edura-demo.vercel.app)** | Next.js, TypeScript, Node.js, MongoDB, Redis
+**🔗 [Live Demo](https://lms.asifraza.site)** | Next.js, TypeScript, Node.js, MongoDB, Redis
 
 Full-featured LMS with course enrollment, progress tracking, admin analytics, and optimized queries using Redis caching for improved performance.
 
 ---
 
 ### [RentIQ – Property Management Platform](https://github.com/asifrazadev/RentIQ)
-**🔗 [Live Demo](https://rentiq-demo.vercel.app)** | React, Node.js, Express, MongoDB
+**🔗 [Live Demo](https://rentiq.asifraza.site)** | React, Node.js, Express, MongoDB
 
 AI-powered property recommendation engine with booking workflows, payment integration, and automated email notifications.
 
 ---
 
 ### [Vendly – Multi-Vendor E-Commerce Platform](https://github.com/asifrazadev/Vendly)
-**🔗 [Live Demo](https://vendly-demo.vercel.app)** | React, Redux, Node.js, MongoDB
+**🔗 [Live Demo](https://vendly.asifraza.site)** | React, Redux, Node.js, MongoDB
 
 Complete e-commerce solution featuring seller dashboards, role-based access control, and optimized checkout flow with secure payment processing.
 
